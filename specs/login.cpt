@@ -1,0 +1,4 @@
+# Eposta alanına <email> ve şifre alanına <password> değerlerini gir.
+* "com.ozdilek.ozdilekteyim:id/etEposta" ID'li elemente <email> değerini yaz.
+* "1" saniye bekle
+* "com.ozdilek.ozdilekteyim:id/etPassword" ID'li elemente <password> değerini yaz.
